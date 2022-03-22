@@ -47,3 +47,6 @@ yarn chain
 yarn backend
 
 ```
+
+Demo at : https://multisig-stretch.surge.sh/
+The demo required a local pool server activated.(Follow the steps to install the repository and execute only the command yarn backend)
