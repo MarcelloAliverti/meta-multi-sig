@@ -12,7 +12,7 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/scaffold-eth/scaffold-eth-examples meta-multi-sig
+git clone https://github.com/MarcelloAliverti/meta-multi-sig
 
 cd meta-multi-sig
 
